@@ -48,7 +48,7 @@ O objetivo desta atividade é controlar um servomotor usando o microcontrolador 
 ## 🧭 Passo a Passo para Uso
 
 1. **Instalar o VS Code e suas dependências.**
-2. **Configurar o Wokwi**
+2. **Configurar o Wokwi.**
 3. **Clonar o repositório, utilizando o link deste projeto, usando o seguinte comando:**
 
     ```bash
@@ -58,10 +58,10 @@ O objetivo desta atividade é controlar um servomotor usando o microcontrolador 
 4. **Navegue até o diretório do projeto:**
 
     ```bash
-    cd seu-repositorio
+    cd projeto
     ```
 
-5. **Execute a simulação e observe o movimento do servomotor e o comportamento do LED RGB.**
+5. **Execute a simulação pelo próprio VS Code ou pelo link acima e observe o movimento do servomotor e o comportamento do LED RGB.**
 
 
 ### 🔦 Resultados Esperados ✅
