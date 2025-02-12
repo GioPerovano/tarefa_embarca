@@ -1,7 +1,7 @@
 # 🛠️ Controle de Servomotor por PWM 🚀
 
 ## 🎯 Objetivo
-O objetivo desta atividade é controlar um servomotor usando o microcontrolador **RP2040** com **Pico SDK**, simulando a movimentação de sua flange entre os ângulos de 0° a 180°. A tarefa também envolve a manipulação de um LED RGB utilizando a ferramenta educacional **BitDogLab**.
+O objetivo desta atividade é controlar um servomotor usando o microcontrolador **RP2040** com **Pico SDK**, simulando a movimentação de sua flange entre os ângulos de 0° a 180°. A tarefa também envolve a manipulação de um LED RGB para exemplificar o funcionamento do servomotor e suas funções.
 
 ## 💡 Requisitos
 
@@ -24,8 +24,7 @@ O objetivo desta atividade é controlar um servomotor usando o microcontrolador 
 - **Etapa**: Criar uma rotina que mova a flange do servomotor entre 0 e 180 graus de forma suave, com incremento de ±5µs e atraso de 10ms.
 
 ### 6️⃣ Experimento com o LED RGB no BitDogLab
-- **Tarefa**: Experimento com o LED RGB no GPIO 12 utilizando o código do exercício.
-- **Nota**: 15% da tarefa.
+- **Etapa**: Experimento com o LED RGB no GPIO 12 utilizando o código do exercício.
 
 ## 🖥️ Ambiente de Desenvolvimento
 
