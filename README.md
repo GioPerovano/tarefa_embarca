@@ -42,7 +42,7 @@ O objetivo desta atividade é controlar um servomotor usando o microcontrolador 
 ## 📂 Links Importantes
 [🔗 Link do Vídeo - Ensaio](#)
 
-[🔗 Link da simulação no Wokwi](#)
+[🔗 Link da simulação no Wokwi](https://wokwi.com/projects/422647161074774017)
 
 
 ## 🧭 Passo a Passo para Uso
