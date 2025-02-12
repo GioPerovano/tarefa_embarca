@@ -44,6 +44,29 @@ O objetivo desta atividade é controlar um servomotor usando o microcontrolador 
 
 [🔗 Link da simulação no Wokwi](#)
 
-##📝 Conclusão
-Com esta tarefa, o objetivo é controlar o movimento de um servomotor usando o módulo PWM e realizar experimentos com o LED RGB. Além disso, será possível praticar o uso de um ambiente de desenvolvimento integrado e o versionamento de código no GitHub.
+
+## 🧭 Passo a Passo para Uso
+
+1. **Instalar o VS Code e suas dependências.**
+2. **Configurar o Wokwi**
+3. **Clonar o repositório, utilizando o link deste projeto, usando o seguinte comando:**
+
+    ```bash
+    git clone https://github.com/GioPerovano/tarefa_embarca
+    ```
+
+4. **Navegue até o diretório do projeto:**
+
+    ```bash
+    cd seu-repositorio
+    ```
+
+5. **Execute a simulação e observe o movimento do servomotor e o comportamento do LED RGB.**
+
+
+### 🔦 Resultados Esperados ✅
+
+- O servomotor irá ajustar sua posição para 0º, 90º e 180º, conforme especificado na atividade.
+- O LED RGB deve variar sua intensidade de acordo com os valores de **PWM**, mostrando diferentes cores e brilhos.
+
 
