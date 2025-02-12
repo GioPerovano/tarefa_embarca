@@ -1,1 +1,49 @@
-# tarefa_embarca
+# 🛠️ Controle de Servomotor por PWM 🚀
+
+## 🎯 Objetivo
+O objetivo desta atividade é controlar um servomotor usando o microcontrolador **RP2040** com **Pico SDK**, simulando a movimentação de sua flange entre os ângulos de 0° a 180°. A tarefa também envolve a manipulação de um LED RGB utilizando a ferramenta educacional **BitDogLab**.
+
+## 💡 Requisitos
+
+### 1️⃣ Definir a frequência de PWM para 50Hz (20ms)
+- **Etapa**: Configurar a GPIO 22 com a frequência de 50Hz.
+
+### 2️⃣ Ajustar o ciclo ativo para 2.400µs (180 graus)
+- **Ciclo de Trabalho**: 0,12%.
+- **Etapa**: Ajustar o servomotor para 180 graus e aguardar 5 segundos.
+
+### 3️⃣ Ajustar o ciclo ativo para 1.470µs (90 graus)
+- **Ciclo de Trabalho**: 0,0735%.
+- **Etapa**: Ajustar o servomotor para 90 graus e aguardar 5 segundos.
+
+### 4️⃣ Ajustar o ciclo ativo para 500µs (0 graus)
+- **Ciclo de Trabalho**: 0,025%.
+- **Etapa**: Ajustar o servomotor para 0 graus e aguardar 5 segundos.
+  
+### 5️⃣ Movimentação Periódica do Servomotor
+- **Etapa**: Criar uma rotina que mova a flange do servomotor entre 0 e 180 graus de forma suave, com incremento de ±5µs e atraso de 10ms.
+
+### 6️⃣ Experimento com o LED RGB no BitDogLab
+- **Tarefa**: Experimento com o LED RGB no GPIO 12 utilizando o código do exercício.
+- **Nota**: 15% da tarefa.
+
+## 🖥️ Ambiente de Desenvolvimento
+
+- **Editor**: VS Code
+- **Ferramentas**: Pico SDK
+- **Simulador**: Wokwi (simulação do servomotor)
+
+### 🔄 Fluxo de Trabalho
+
+1. **Configuração do PWM** para o controle do servomotor.
+2. **Implementação do código** em C utilizando o Pico SDK.
+3. **Testes básicos** para garantir o funcionamento correto de cada recurso.
+4. **Integração com o GitHub** para versionamento e submissão.
+
+## 📂 Links Importantes
+[🔗 Link do Vídeo - Ensaio](#)
+[🔗 Link da simulação no Wokwi](#)
+
+##📝 Conclusão
+Com esta tarefa, o objetivo é controlar o movimento de um servomotor usando o módulo PWM e realizar experimentos com o LED RGB. Além disso, será possível praticar o uso de um ambiente de desenvolvimento integrado e o versionamento de código no GitHub.
+
