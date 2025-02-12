@@ -40,7 +40,7 @@ O objetivo desta atividade é controlar um servomotor usando o microcontrolador 
 4. **Integração com o GitHub** para versionamento e submissão.
 
 ## 📂 Links Importantes
-[🔗 Link do Vídeo - Ensaio](#)
+[🔗 Link do Vídeo - Ensaio](https://youtu.be/p6b1pQPRx8Y)
 
 [🔗 Link da simulação no Wokwi](https://wokwi.com/projects/422647161074774017)
 
